@@ -14,15 +14,16 @@ This project is an expense management system that consists of a Streamlit fronte
 
 ## Project Interface:
 
-<img width="675" height="599" alt="Image" src="https://github.com/user-attachments/assets/4ca3a2e1-7f10-4461-860f-38789447d382" />
+<img width="675" height="599" alt="expense tracking system add _ update" src="https://github.com/user-attachments/assets/bf8d977d-21da-4893-b7ea-c35b3bef6056" />
+
+
+<img width="668" height="796" alt="analytics_by_category" src="https://github.com/user-attachments/assets/413969c9-3b57-470f-aa33-b63c9f6cceff" />
+
+
+<img width="849" height="759" alt="analytics_by_month_wise" src="https://github.com/user-attachments/assets/5406d9d2-ff31-4570-a987-62128d6bb417" />
 
 
 
-<img width="668" height="796" alt="analytics_by_category" src="https://github.com/user-attachments/assets/4f992f98-db01-4935-ba28-dbe1e4388743" />
-
-
-
-<img width="849" height="759" alt="analytics_by_month_wise" src="https://github.com/user-attachments/assets/f95e3514-be0a-457d-bcee-298eeec54e7e" />
 
 #Features:
 
