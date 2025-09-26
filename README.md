@@ -32,7 +32,7 @@ This project is an expense management system that consists of a Streamlit fronte
 - Save expense information—such as date, amount, category, and notes—directly in a MySQL database.
 
 2. **Backend (FastAPI)**
-- Built RESTful API endpoints for:
+- Built  API endpoints for:
 - Adding new expenses
 
 - Retrieving expenses by specific dates
